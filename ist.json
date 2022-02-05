@@ -1,0 +1,13 @@
+{
+  "name": "Название источника",
+  "mods": [
+    {
+      "id": "beach_costumes",
+      "name": "Beach costumes",
+      "version": "1.0",
+      "description": "Beach costumes for Ino",
+      "game_version": "0.16",
+      "file_name": "beach.zip"
+    }
+  ]
+}
